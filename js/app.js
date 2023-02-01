@@ -1,1 +1,17 @@
-console.log('Hello World');
+//------------------ Cached Element References ----------//
+
+
+
+
+
+
+
+
+//------------------ Event Listeners ------------------//
+
+
+
+
+
+
+//------------------ Game Functions ---------------------//
